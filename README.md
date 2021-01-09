@@ -3,4 +3,4 @@
 
 - taper les commandes suivantes pour lancer le code : spark-submit Estimation_Pi.py
 
-![Sortie](Image_Read_me/Image.png)
+![Sortie](Image_Read_me\Image.png)
